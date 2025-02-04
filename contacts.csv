@@ -1,0 +1,6 @@
+firstName;lastName;birthdate;email;phone;street1;street2;city;stateProvince;postalCode;country
+Robb;Stark;"""1997-01-20""";robb@gmail.com;1257093672;The North;1;Westeros;East;77777;Winterfell
+Sansa;Stark;"""200-05-15""";sansa@gmail.com;1259093672;The North;2;Westeros;East;22222;Winterfell
+Bran;Stark;"""2002-09-08""";bran@gmail.com;1357093672;The North;3;Westeros;East;88888;Winterfell
+Jon;Stark;"""1999-11-07""";jon@gmail.com;1359093672;The North;4;Westeros;East;55555;Winterfell
+Rickon;Stark;"""2003-07-19""";rickon@gmail.com;1261093672;The North;5;Westeros;East;33333;Winterfell
