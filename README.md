@@ -1,4 +1,4 @@
-# jmeter-contactlistapp
+# JMeter-ContactListApp
 Project Bootcamp SanberCode - Quality Assurance 
 
 Source: https://thinking-tester-contact-list.herokuapp.com/
